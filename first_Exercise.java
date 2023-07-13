@@ -19,7 +19,7 @@ public class first_Exercise {
 	      percentInternational = numInternational/(Total*100);
 	      
 	      System.out.print("Total number of students is " + Total + " of which " + percentLocal+"% are local and "+percentInternational+"% are international" );
-	      
+	      sc.close();
 	      
 	}
 
