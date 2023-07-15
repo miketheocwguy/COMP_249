@@ -2,11 +2,12 @@ package fourth_exercise;
 import java.util.Scanner;
 
 public class fourth_exercise {
-
-	public static void main(String[] args) {
+public static void main(String[] args) {
     Scanner user = new Scanner(System.in); 
+    
+    System.out.print("Enter a word: ");
     String word = user.nextLine();
-   
+    
     
     for(int i = 0;i < word.length();i+=2) {
     	for(int j = 0;j<(word.length());j++) {
@@ -22,3 +23,4 @@ public class fourth_exercise {
     user.close();
 	}
 }
+
