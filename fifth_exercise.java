@@ -1,7 +1,7 @@
 package fifth_exercise;
 import java.util.Scanner;
 
-public class fifth_exercise {
+public class fifth_Exercise {
 
 	public static void main(String[] args) {
 	Scanner user = new Scanner(System.in);
