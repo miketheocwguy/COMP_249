@@ -1,7 +1,7 @@
 package second_exercise;
 import java.util.Scanner;
 
-public class secound_exercise {
+public class second_Exercise {
 
 	public static void main(String[] args) {
      
